@@ -84,6 +84,8 @@
     };
     
     var ESCAPE = 27;
+    var DELETE = 46;
+    var BACKSPACE = 8;
 
     function _keyForKeyCode(keyCode, object) {
         var key;
